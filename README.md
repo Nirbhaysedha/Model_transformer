@@ -1,8 +1,4 @@
-Objective:
--> removing skewness in dataset
--> working on outliers
--> working on biasness
--> accuracy
+
 
 IN THIS I USED MANY FEATURE ENGINEERING TECHNIQUES FOR MY DATASET:-
 
